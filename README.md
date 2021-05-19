@@ -74,6 +74,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
   -   **[TypeORM](https://typeorm.io/#/)**
   -   **[UUID](https://github.com/uuidjs/uuid)**
   -   **[Reflect Metadata](https://github.com/rbuckton/reflect-metadata)**
+  -   **[Socket.io](https://github.com/socketio/socket.io)**
+  -   **[Socket.io-client](https://github.com/socketio/socket.io-client)**
+  -   **[ejs](https://ejs.co)**
   
 - **Dependências de Desenvolvimento**:
   -   **[Typescript](https://www.typescriptlang.org)**
